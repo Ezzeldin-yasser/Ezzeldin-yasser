@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/banner.jpg" alt="AI engineer profile banner" width="100%" />
+
 # Ezzeldin Yasser
 
 **Artificial Intelligence Student · Aspiring AI Engineer**
@@ -76,21 +78,6 @@ React, TypeScript, and PostgreSQL are the interface and database behind [mllab](
 - **Generative AI** — a language model aimed at one bounded task
 - **LLMs & RAG** — retrieval of the right schema and examples before anything is generated
 - **AI agents** — short tool-using loops that check a result and try again
-
-## GitHub Statistics
-
-<!-- github-readme-stats.vercel.app is paused (DEPLOYMENT_PAUSED). github-stats-extended serves the same cards. -->
-
-<div align="center">
-  <img height="180" alt="GitHub statistics for Ezzeldin-yasser" src="https://github-stats-extended.vercel.app/api?username=Ezzeldin-yasser&show_icons=true&theme=dark&hide_border=true" />
-  <img height="180" alt="Most used languages for Ezzeldin-yasser" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ezzeldin-yasser&layout=compact&theme=dark&hide_border=true" />
-</div>
-
-<br />
-
-<div align="center">
-  <img height="180" alt="GitHub contribution streak for Ezzeldin-yasser" src="https://streak-stats.demolab.com/?user=Ezzeldin-yasser&theme=dark&hide_border=true" />
-</div>
 
 ## Featured Projects
 
