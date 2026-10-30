@@ -28,9 +28,9 @@ What I use in projects, and what I am still exploring.
 
 **Used**
 
-<img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" height="48" />
+<img src="https://skillicons.dev/icons?i=python,cs,cpp,js&theme=dark&perline=4" alt="Python, C#, C++, and JavaScript" height="48" />
 
-Python · NumPy · Pandas · SQL
+Python · C# · C++ · JavaScript · NumPy · Pandas · SQL
 
 ### Machine Learning
 
