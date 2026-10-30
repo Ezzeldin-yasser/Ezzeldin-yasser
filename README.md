@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Ezzeldin 👋
 
-<!--
-**Ezzeldin-yasser/Ezzeldin-yasser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ML / Applied AI** — classical machine learning, data tools, and applied AI projects.
 
-Here are some ideas to get you started:
+I build small, end-to-end systems: train models, ship a UI, and keep the demos honest about what they are (and aren't).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured projects
+
+| Project | What it does |
+| --- | --- |
+| [**mllab**](https://github.com/Ezzeldin-yasser/mllab) | Upload a CSV, train classical models (sklearn / XGBoost), compare runs, and predict — FastAPI + React + Docker |
+| [**hansom**](https://github.com/Ezzeldin-yasser/hansom) | Bilingual text-to-SQL analyst over a synthetic NYC taxi ledger |
+| [**clinical-gaze**](https://github.com/Ezzeldin-yasser/clinical-gaze) | Phone photo + short clinical form → six-class skin-lesion demo *(course project — not a medical device)* |
+
+## Stack I reach for
+
+`Python` · `scikit-learn` · `XGBoost` · `FastAPI` · `pandas` · `React` · `TypeScript` · `PostgreSQL` · `Docker`
+
+## Currently
+
+- Sharpening ML fundamentals and shipping portfolio projects
+- Open to internships and junior ML / applied AI roles
+
+## Connect
+
+- GitHub: [Ezzeldin-yasser](https://github.com/Ezzeldin-yasser)
