@@ -4,7 +4,7 @@
 
 # Ezzeldin Yasser
 
-**Artificial Intelligence Student · Aspiring AI Engineer**
+**Computer Science Student **
 
 Machine Learning & Deep Learning Enthusiast · Applied AI Developer
 
@@ -20,7 +20,7 @@ Cairo, Egypt
 
 I am a computer science and artificial intelligence student, working toward practical AI: models that leave the notebook and become a small application.
 
-I understand classical machine learning as a full workflow. I explore the data, prepare features, train supervised models, including ensembles such as XGBoost, and compare experiments. I am building my deep learning foundation in PyTorch — neural networks, CNNs, and transformers (Swin) — through coursework and a course project. Alongside that, I am exploring how language models, retrieval, and tool-using loops can support a real task, and I treat that work as exploration.
+I understand classical machine learning as a full workflow. I explore the data, prepare features, train supervised models, including ensembles such as XGBoost, and compare experiments. I am building my deep learning foundation in PyTorch — neural networks, CNNs, and transformers  — through coursework and a course project. Alongside that, I am exploring how language models, retrieval, and tool-using loops can support a real task, and I treat that work as exploration.
 
 ## Technical Skills
 
